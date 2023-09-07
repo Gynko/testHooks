@@ -1,0 +1,10 @@
+.register-answers {
+  background-color: pink;
+  margin: 3rem;
+  padding: 3rem;
+  border-radius: 30px;
+}
+
+.answers {
+  font-size: 2rem;
+}
